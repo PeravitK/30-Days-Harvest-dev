@@ -2939,3 +2939,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.05-08.19.50:736][450]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Test_Mesh/Pumpkingreen.Pumpkingreen
 [2024.07.05-08.19.50:736][450]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Test_Mesh/FarmStuffV6_PumpkinLoose.FarmStuffV6_PumpkinLoose
 [2024.07.05-08.19.50:736][450]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_FarmTile.BP_FarmTile
+[2024.07.05-08.21.15:497][751]LogWindowsTextInputMethodSystem: Activated input method: อังกฤษ (สหรัฐอเมริกา) - (Keyboard).
+[2024.07.05-08.21.15:497][751]LogWindowsTextInputMethodSystem: Activated input method: อังกฤษ (สหรัฐอเมริกา) - (Keyboard).
